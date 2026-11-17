@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <data name="AdditionalDeaths" xml:space="preserve"><value> — ещё {0}</value></data>
+  <data name="AllPlayers" xml:space="preserve"><value>Все участники</value></data>
+  <data name="BetweenMessages" xml:space="preserve"><value>Между репликами</value></data>
+  <data name="BrowserError" xml:space="preserve"><value>Не удалось открыть браузер.</value></data>
+  <data name="ByMatch" xml:space="preserve"><value>По матчам</value></data>
+  <data name="CacheCleared" xml:space="preserve"><value>Кэш очищен · удалено файлов: {0}.</value></data>
+  <data name="ChatEmpty" xml:space="preserve"><value>Здесь появятся сообщения из общего чата.</value></data>
+  <data name="ChatMissing" xml:space="preserve"><value>В ответе OpenDota нет журнала общего чата.</value></data>
+  <data name="ChatNotLoaded" xml:space="preserve"><value>Чат не загружен</value></data>
+  <data name="ChatUnavailable" xml:space="preserve"><value>Чат недоступен</value></data>
+  <data name="ClearCache" xml:space="preserve"><value>Очистить кэш</value></data>
+  <data name="ClearCacheError" xml:space="preserve"><value>Не удалось полностью очистить кэш. Проверьте доступ к папке приложения.</value></data>
+  <data name="ClearCacheHint" xml:space="preserve"><value>Удалить сохранённые матчи и страницы истории матчей. История ID хранится отдельно.</value></data>
+  <data name="ClearingCache" xml:space="preserve"><value>Очистка кэша…</value></data>
+  <data name="CombatLogProgress" xml:space="preserve"><value>Журнал боя · {0} из {1} · #{2}</value></data>
+  <data name="CombatLogsUpdated" xml:space="preserve"><value>Обновлены журналы боя: {0} из {1}.</value></data>
+  <data name="ConfirmClearCache" xml:space="preserve"><value>Удалить сохранённые матчи и списки матчей? Открытые чаты останутся в окне, история ID сохранится.</value></data>
+  <data name="ConnectionError" xml:space="preserve"><value>Не удалось подключиться к OpenDota. Проверьте подключение к интернету.</value></data>
+  <data name="Continued" xml:space="preserve"><value>{0} · продолжение</value></data>
+  <data name="DarkTheme" xml:space="preserve"><value>Включить тёмную тему</value></data>
+  <data name="DeathFew" xml:space="preserve"><value>смерти</value></data>
+  <data name="DeathPlural" xml:space="preserve"><value>смертей</value></data>
+  <data name="DeathSingular" xml:space="preserve"><value>смерть</value></data>
+  <data name="EndOfHistory" xml:space="preserve"><value>Конец истории OpenDota · матчей: {0}.</value></data>
+  <data name="ExportFeedTitle" xml:space="preserve"><value>Лента общего чата</value></data>
+  <data name="Feed" xml:space="preserve"><value>Лента</value></data>
+  <data name="FeedEmpty" xml:space="preserve"><value>В ленте пока нет сообщений для выбранного фильтра.</value></data>
+  <data name="FeedIoError" xml:space="preserve"><value>Не удалось сохранить ленту. {0}</value></data>
+  <data name="FeedLoading" xml:space="preserve"><value>Сообщения появятся по мере загрузки чатов.</value></data>
+  <data name="FeedMatchCount" xml:space="preserve"><value>Матчей в ленте: {0}</value></data>
+  <data name="FeedMetadata" xml:space="preserve"><value>ID {0}  ·  {1}  ·  Матчей: {2}</value></data>
+  <data name="FeedPart" xml:space="preserve"><value>Часть {0} из {1}</value></data>
+  <data name="FeedPartsSaved" xml:space="preserve"><value>Лента сохранена в {0} PNG · первый файл: {1}</value></data>
+  <data name="FeedSaved" xml:space="preserve"><value>Лента сохранена · {0}</value></data>
+  <data name="FeedSaveError" xml:space="preserve"><value>Не удалось сохранить ленту. Проверьте имя файла и доступ к папке.</value></data>
+  <data name="FeedTitle" xml:space="preserve"><value>Лента сообщений</value></data>
+  <data name="FinalKda" xml:space="preserve"><value>Итоговое КДА</value></data>
+  <data name="FinalScoreHint" xml:space="preserve"><value>Итоговые убийства / смерти / помощь и коэффициент (К + А) / Д</value></data>
+  <data name="HttpError" xml:space="preserve"><value>Ошибка OpenDota (HTTP {0}). Попробуйте ещё раз позже.</value></data>
+  <data name="IdHistory" xml:space="preserve"><value>История ID</value></data>
+  <data name="InvalidId" xml:space="preserve"><value>Введите числовой Dota Account ID игрока.</value></data>
+  <data name="KdaAbbreviation" xml:space="preserve"><value>У/С/П</value></data>
+  <data name="KdaDescription" xml:space="preserve"><value>Убийства / смерти / помощь  ·  (К + А) / Д</value></data>
+  <data name="Language" xml:space="preserve"><value>Язык интерфейса</value></data>
+  <data name="LightTheme" xml:space="preserve"><value>Включить светлую тему</value></data>
+  <data name="LoadChat" xml:space="preserve"><value>Загрузить чат</value></data>
+  <data name="LoadChats" xml:space="preserve"><value>Загрузить чаты</value></data>
+  <data name="LoadingCombatLog" xml:space="preserve"><value>Загрузка журнала боя…</value></data>
+  <data name="LoadingFeed" xml:space="preserve"><value>Загрузка ленты…</value></data>
+  <data name="LoadingMatchChat" xml:space="preserve"><value>Загрузка чата матча #{0}…</value></data>
+  <data name="LoadingMatches" xml:space="preserve"><value>Загрузка списка матчей…</value></data>
+  <data name="LoadingMoreMatches" xml:space="preserve"><value>Загрузка следующих матчей…</value></data>
+  <data name="LoadingStopped" xml:space="preserve"><value>Загрузка остановлена.</value></data>
+  <data name="LoadMatches" xml:space="preserve"><value>Загрузить матчи</value></data>
+  <data name="Loss" xml:space="preserve"><value>Поражение</value></data>
+  <data name="MatchChatCount" xml:space="preserve"><value>Игрок: {0}  ·  Всего: {1}</value></data>
+  <data name="MatchChatError" xml:space="preserve"><value>Не удалось загрузить чат этого матча.</value></data>
+  <data name="MatchChatPrompt" xml:space="preserve"><value>Загрузите общий чат этого матча из OpenDota.</value></data>
+  <data name="Matches" xml:space="preserve"><value>Матчи</value></data>
+  <data name="MatchesLoaded" xml:space="preserve"><value>Загружено матчей: {0}.</value></data>
+  <data name="MatchLoadError" xml:space="preserve"><value>Ошибка загрузки</value></data>
+  <data name="MatchTitle" xml:space="preserve"><value>Матч #{0}</value></data>
+  <data name="MessageFeed" xml:space="preserve"><value>Лента сообщений по матчам</value></data>
+  <data name="MissingMatchCount" xml:space="preserve"><value> OpenDota не нашёл матчей: {0}.</value></data>
+  <data name="MoreMatches" xml:space="preserve"><value>Ещё матчи</value></data>
+  <data name="NoPublicMatches" xml:space="preserve"><value>OpenDota не вернул публичных матчей для ID {0}.</value></data>
+  <data name="NoReplayParse" xml:space="preserve"><value>Нет разбора реплея</value></data>
+  <data name="NoTextChat" xml:space="preserve"><value>В журнале OpenDota нет текстовых сообщений.</value></data>
+  <data name="OpenDocs" xml:space="preserve"><value>Открыть документацию OpenDota</value></data>
+  <data name="OpenMatch" xml:space="preserve"><value>Открыть матч на OpenDota</value></data>
+  <data name="ParseUnconfirmed" xml:space="preserve"><value>Разбор не подтверждён</value></data>
+  <data name="PlayerChatCount" xml:space="preserve"><value>Матчей с сообщениями игрока: {0} из {1}.</value></data>
+  <data name="PlayerChatMissing" xml:space="preserve"><value>Сообщений игрока в журнале нет. Включите «Все участники», чтобы посмотреть общий чат.</value></data>
+  <data name="PlayerMatches" xml:space="preserve"><value>Матчи игрока</value></data>
+  <data name="PlayerMessages" xml:space="preserve"><value>Реплики игрока</value></data>
+  <data name="PlayerMessagesOnly" xml:space="preserve"><value>Только сообщения игрока</value></data>
+  <data name="PlayersUnavailable" xml:space="preserve"><value>Нет данных об участниках</value></data>
+  <data name="PngPartExists" xml:space="preserve"><value>PNG с таким именем и номером части уже существует. Выберите другое имя.</value></data>
+  <data name="PngSaved" xml:space="preserve"><value>Сохранён PNG · {0}</value></data>
+  <data name="PngSaveError" xml:space="preserve"><value>Не удалось сохранить PNG. Проверьте доступ к папке и попробуйте ещё раз.</value></data>
+  <data name="RateLimited" xml:space="preserve"><value>OpenDota ограничил частоту запросов. Повторите позже.</value></data>
+  <data name="ReadError" xml:space="preserve"><value>Ответ OpenDota не удалось прочитать. Попробуйте ещё раз позже.</value></data>
+  <data name="ReplayNotParsed" xml:space="preserve"><value>OpenDota пока не разобрал реплей. Чат может появиться после разбора.</value></data>
+  <data name="Retry" xml:space="preserve"><value>Повторить</value></data>
+  <data name="SaveChatHint" xml:space="preserve"><value>Сохранить чат этого матча в PNG</value></data>
+  <data name="SaveFeed" xml:space="preserve"><value>PNG всей ленты</value></data>
+  <data name="SaveFeedHint" xml:space="preserve"><value>Сохранить все загруженные чаты в ленте с учётом фильтров</value></data>
+  <data name="SaveMatchHint" xml:space="preserve"><value>Сохранить весь показанный чат матча, включая сообщения за пределами экрана</value></data>
+  <data name="SavePng" xml:space="preserve"><value>Сохранить PNG</value></data>
+  <data name="SavingFeed" xml:space="preserve"><value>Сохранение ленты · матчей: {0}…</value></data>
+  <data name="ScanChats" xml:space="preserve"><value>Проверить чаты</value></data>
+  <data name="ScanChatsHint" xml:space="preserve"><value>Загрузить общий чат для матчей в списке</value></data>
+  <data name="ScanningChats" xml:space="preserve"><value>Проверка чатов…</value></data>
+  <data name="ScanningMatch" xml:space="preserve"><value>Проверка чатов · {0} из {1} · #{2}</value></data>
+  <data name="ScoreAndDeaths" xml:space="preserve"><value>Счёт и смерти</value></data>
+  <data name="ScoreAndDeathsHint" xml:space="preserve"><value>Показывать счёт автора, сводки смертей между репликами и итоговое КДА всех игроков матча</value></data>
+  <data name="ScoreHint" xml:space="preserve"><value>Убийства / смерти / помощь к этой секунде</value></data>
+  <data name="SelectMatch" xml:space="preserve"><value>Выберите матч</value></data>
+  <data name="Stop" xml:space="preserve"><value>Остановить</value></data>
+  <data name="Subtitle" xml:space="preserve"><value>История общего чата по матчам Dota 2</value></data>
+  <data name="Timeout" xml:space="preserve"><value>OpenDota не ответил вовремя. Попробуйте ещё раз.</value></data>
+  <data name="TranscriptMetadata" xml:space="preserve"><value>{0}  ·  ID {1}  ·  {2}  ·  Реплик: {3}</value></data>
+  <data name="TranscriptTitle" xml:space="preserve"><value>Общий чат · {0}</value></data>
+  <data name="UnknownAuthor" xml:space="preserve"><value>Неизвестный автор</value></data>
+  <data name="UnknownHero" xml:space="preserve"><value>Герой #{0}</value></data>
+  <data name="Win" xml:space="preserve"><value>Победа</value></data>
+</root>

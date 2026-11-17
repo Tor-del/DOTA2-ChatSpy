@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <data name="AdditionalDeaths" xml:space="preserve"><value> — {0} more</value></data>
+  <data name="AllPlayers" xml:space="preserve"><value>All players</value></data>
+  <data name="BetweenMessages" xml:space="preserve"><value>Between messages</value></data>
+  <data name="BrowserError" xml:space="preserve"><value>Could not open the browser.</value></data>
+  <data name="ByMatch" xml:space="preserve"><value>By match</value></data>
+  <data name="CacheCleared" xml:space="preserve"><value>Cache cleared · Files deleted: {0}.</value></data>
+  <data name="ChatEmpty" xml:space="preserve"><value>All-chat messages will appear here.</value></data>
+  <data name="ChatMissing" xml:space="preserve"><value>The OpenDota response contains no all-chat log.</value></data>
+  <data name="ChatNotLoaded" xml:space="preserve"><value>Chat not loaded</value></data>
+  <data name="ChatUnavailable" xml:space="preserve"><value>Chat unavailable</value></data>
+  <data name="ClearCache" xml:space="preserve"><value>Clear cache</value></data>
+  <data name="ClearCacheError" xml:space="preserve"><value>Could not clear the entire cache. Check access to the application data folder.</value></data>
+  <data name="ClearCacheHint" xml:space="preserve"><value>Delete cached matches and match history pages. ID history is stored separately.</value></data>
+  <data name="ClearingCache" xml:space="preserve"><value>Clearing cache…</value></data>
+  <data name="CombatLogProgress" xml:space="preserve"><value>Combat log · {0} of {1} · #{2}</value></data>
+  <data name="CombatLogsUpdated" xml:space="preserve"><value>Combat logs updated: {0} of {1}.</value></data>
+  <data name="ConfirmClearCache" xml:space="preserve"><value>Delete cached matches and match lists? Open chats and ID history will be kept.</value></data>
+  <data name="ConnectionError" xml:space="preserve"><value>Could not connect to OpenDota. Check your internet connection.</value></data>
+  <data name="Continued" xml:space="preserve"><value>{0} · continued</value></data>
+  <data name="DarkTheme" xml:space="preserve"><value>Switch to dark theme</value></data>
+  <data name="DeathFew" xml:space="preserve"><value>deaths</value></data>
+  <data name="DeathPlural" xml:space="preserve"><value>deaths</value></data>
+  <data name="DeathSingular" xml:space="preserve"><value>death</value></data>
+  <data name="EndOfHistory" xml:space="preserve"><value>End of OpenDota history · Matches: {0}.</value></data>
+  <data name="ExportFeedTitle" xml:space="preserve"><value>All-chat feed</value></data>
+  <data name="Feed" xml:space="preserve"><value>Feed</value></data>
+  <data name="FeedEmpty" xml:space="preserve"><value>The feed has no messages for the selected filter yet.</value></data>
+  <data name="FeedIoError" xml:space="preserve"><value>Could not save the feed. {0}</value></data>
+  <data name="FeedLoading" xml:space="preserve"><value>Messages will appear as chat logs load.</value></data>
+  <data name="FeedMatchCount" xml:space="preserve"><value>Matches in feed: {0}</value></data>
+  <data name="FeedMetadata" xml:space="preserve"><value>ID {0}  ·  {1}  ·  Matches: {2}</value></data>
+  <data name="FeedPart" xml:space="preserve"><value>Part {0} of {1}</value></data>
+  <data name="FeedPartsSaved" xml:space="preserve"><value>Feed saved as {0} PNG files · First file: {1}</value></data>
+  <data name="FeedSaved" xml:space="preserve"><value>Feed saved · {0}</value></data>
+  <data name="FeedSaveError" xml:space="preserve"><value>Could not save the feed. Check the filename and folder permissions.</value></data>
+  <data name="FeedTitle" xml:space="preserve"><value>Message feed</value></data>
+  <data name="FinalKda" xml:space="preserve"><value>Final KDA</value></data>
+  <data name="FinalScoreHint" xml:space="preserve"><value>Final kills / deaths / assists and (K + A) / D ratio</value></data>
+  <data name="HttpError" xml:space="preserve"><value>OpenDota error (HTTP {0}). Try again later.</value></data>
+  <data name="IdHistory" xml:space="preserve"><value>ID history</value></data>
+  <data name="InvalidId" xml:space="preserve"><value>Enter a player's numeric Dota Account ID.</value></data>
+  <data name="KdaAbbreviation" xml:space="preserve"><value>K/D/A</value></data>
+  <data name="KdaDescription" xml:space="preserve"><value>Kills / deaths / assists  ·  (K + A) / D</value></data>
+  <data name="Language" xml:space="preserve"><value>Interface language</value></data>
+  <data name="LightTheme" xml:space="preserve"><value>Switch to light theme</value></data>
+  <data name="LoadChat" xml:space="preserve"><value>Load chat</value></data>
+  <data name="LoadChats" xml:space="preserve"><value>Load chats</value></data>
+  <data name="LoadingCombatLog" xml:space="preserve"><value>Loading combat logs…</value></data>
+  <data name="LoadingFeed" xml:space="preserve"><value>Loading feed…</value></data>
+  <data name="LoadingMatchChat" xml:space="preserve"><value>Loading chat for match #{0}…</value></data>
+  <data name="LoadingMatches" xml:space="preserve"><value>Loading match history…</value></data>
+  <data name="LoadingMoreMatches" xml:space="preserve"><value>Loading more matches…</value></data>
+  <data name="LoadingStopped" xml:space="preserve"><value>Loading stopped.</value></data>
+  <data name="LoadMatches" xml:space="preserve"><value>Load matches</value></data>
+  <data name="Loss" xml:space="preserve"><value>Loss</value></data>
+  <data name="MatchChatCount" xml:space="preserve"><value>Player: {0}  ·  Total: {1}</value></data>
+  <data name="MatchChatError" xml:space="preserve"><value>Could not load chat for this match.</value></data>
+  <data name="MatchChatPrompt" xml:space="preserve"><value>Load the all-chat log for this match from OpenDota.</value></data>
+  <data name="Matches" xml:space="preserve"><value>Matches</value></data>
+  <data name="MatchesLoaded" xml:space="preserve"><value>Matches loaded: {0}.</value></data>
+  <data name="MatchLoadError" xml:space="preserve"><value>Load failed</value></data>
+  <data name="MatchTitle" xml:space="preserve"><value>Match #{0}</value></data>
+  <data name="MessageFeed" xml:space="preserve"><value>Match message feed</value></data>
+  <data name="MissingMatchCount" xml:space="preserve"><value> Matches unavailable on OpenDota: {0}.</value></data>
+  <data name="MoreMatches" xml:space="preserve"><value>More matches</value></data>
+  <data name="NoPublicMatches" xml:space="preserve"><value>OpenDota returned no public matches for ID {0}.</value></data>
+  <data name="NoReplayParse" xml:space="preserve"><value>Replay unparsed</value></data>
+  <data name="NoTextChat" xml:space="preserve"><value>The OpenDota log contains no text messages.</value></data>
+  <data name="OpenDocs" xml:space="preserve"><value>Open the OpenDota documentation</value></data>
+  <data name="OpenMatch" xml:space="preserve"><value>Open match on OpenDota</value></data>
+  <data name="ParseUnconfirmed" xml:space="preserve"><value>Replay parse unconfirmed</value></data>
+  <data name="PlayerChatCount" xml:space="preserve"><value>Matches with messages from the player: {0} of {1}.</value></data>
+  <data name="PlayerChatMissing" xml:space="preserve"><value>This player has no messages in the log. Select All players to see the full chat.</value></data>
+  <data name="PlayerMatches" xml:space="preserve"><value>Player matches</value></data>
+  <data name="PlayerMessages" xml:space="preserve"><value>Player messages</value></data>
+  <data name="PlayerMessagesOnly" xml:space="preserve"><value>Player messages only</value></data>
+  <data name="PlayersUnavailable" xml:space="preserve"><value>Player data unavailable</value></data>
+  <data name="PngPartExists" xml:space="preserve"><value>A PNG with this name and part number already exists. Choose a different filename.</value></data>
+  <data name="PngSaved" xml:space="preserve"><value>PNG saved · {0}</value></data>
+  <data name="PngSaveError" xml:space="preserve"><value>Could not save the PNG. Check folder permissions and try again.</value></data>
+  <data name="RateLimited" xml:space="preserve"><value>OpenDota has limited request frequency. Try again later.</value></data>
+  <data name="ReadError" xml:space="preserve"><value>Could not read the OpenDota response. Try again later.</value></data>
+  <data name="ReplayNotParsed" xml:space="preserve"><value>OpenDota has yet to parse the replay. Chat may become available after parsing.</value></data>
+  <data name="Retry" xml:space="preserve"><value>Retry</value></data>
+  <data name="SaveChatHint" xml:space="preserve"><value>Save this match chat as a PNG</value></data>
+  <data name="SaveFeed" xml:space="preserve"><value>Save feed as PNG</value></data>
+  <data name="SaveFeedHint" xml:space="preserve"><value>Save every loaded chat in the feed using the current filters</value></data>
+  <data name="SaveMatchHint" xml:space="preserve"><value>Save the displayed match chat, including messages outside the viewport</value></data>
+  <data name="SavePng" xml:space="preserve"><value>Save PNG</value></data>
+  <data name="SavingFeed" xml:space="preserve"><value>Saving feed · Matches: {0}…</value></data>
+  <data name="ScanChats" xml:space="preserve"><value>Scan chats</value></data>
+  <data name="ScanChatsHint" xml:space="preserve"><value>Load all-chat logs for the listed matches</value></data>
+  <data name="ScanningChats" xml:space="preserve"><value>Scanning chats…</value></data>
+  <data name="ScanningMatch" xml:space="preserve"><value>Scanning chats · {0} of {1} · #{2}</value></data>
+  <data name="ScoreAndDeaths" xml:space="preserve"><value>Score and deaths</value></data>
+  <data name="ScoreAndDeathsHint" xml:space="preserve"><value>Show each author's score, deaths between messages, and the final KDA for all players</value></data>
+  <data name="ScoreHint" xml:space="preserve"><value>Kills / deaths / assists up to this point</value></data>
+  <data name="SelectMatch" xml:space="preserve"><value>Select a match</value></data>
+  <data name="Stop" xml:space="preserve"><value>Stop</value></data>
+  <data name="Subtitle" xml:space="preserve"><value>Dota 2 all-chat history</value></data>
+  <data name="Timeout" xml:space="preserve"><value>The OpenDota request timed out. Try again.</value></data>
+  <data name="TranscriptMetadata" xml:space="preserve"><value>{0}  ·  ID {1}  ·  {2}  ·  Messages: {3}</value></data>
+  <data name="TranscriptTitle" xml:space="preserve"><value>All chat · {0}</value></data>
+  <data name="UnknownAuthor" xml:space="preserve"><value>Unknown author</value></data>
+  <data name="UnknownHero" xml:space="preserve"><value>Hero #{0}</value></data>
+  <data name="Win" xml:space="preserve"><value>Win</value></data>
+</root>

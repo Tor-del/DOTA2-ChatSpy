@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>Dota2ChatExtractor</RootNamespace>
+    <Product>DOTA2 Chat Spy</Product>
+    <ApplicationIcon>Assets/ChatSpy.ico</ApplicationIcon>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.2.2</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="Assets/ChatSpy.ico;Assets/ChatSpy.png" />
+    <EmbeddedResource Include="Assets/Heroes/index.json;Assets/Heroes/*.png"
+                      LogicalName="Dota2ChatExtractor.Heroes.%(Filename)%(Extension)" />
+  </ItemGroup>
+</Project>
